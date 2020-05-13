@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_pGX5oZUgEeqFNZrf4W3G7Q" label="Git_Test" description="" language="java" technicalLabel="GIT_TEST" creationDate="2020-05-13T22:43:36.336+0900" author="_pGX5opUgEeqFNZrf4W3G7Q" productVersion="Talend Data Integration-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/nakaso-air/testtal.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+    <migrationTask xmi:id="_pTyDgJUgEeqFNZrf4W3G7Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_pGX5opUgEeqFNZrf4W3G7Q" login="nakaso@air.co.jp" firstName="Motoki" lastName="Nakaso" type="DI" additionnalData="{}"/>
+</xmi:XMI>
