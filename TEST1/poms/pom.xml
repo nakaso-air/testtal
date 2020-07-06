@@ -15,6 +15,7 @@
     <module>jobs/process/Examples/sayhello_0.1</module>
     <module>jobs/joblets/jcloudlog_0.1</module>
     <module>jobs/process/Examples/getweather_0.1</module>
+    <module>code/beans</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
